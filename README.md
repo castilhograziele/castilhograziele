@@ -1,7 +1,7 @@
 ## Olá, Mundo! Aqui é a Grazi 👋
 
 - 🔭 Atualmente estou trabalhando em dois projetos: aplicativo com banco de questões para professores de ciências e uma plataforma de estudos EAD para o ENEM 2025.
-- 🌱 Atualmente estou aprendendo PHP, Laravel, React e Photoshop
+- 🌱 Atualmente estou aprendendo Java.
 - 👯 Estou buscando colaborar em projetos focados em desenvolvimento web.
 - ⚡ Curiosidade: Sempre fui fascinada pelas teorias científicas exploradas em Interestelar, como a relatividade de Einstein e o conceito de buracos negros. A ideia de como o tempo é afetado pela gravidade perto de um buraco negro me fez querer aprender mais sobre física e astrofísica, e até já estudei alguns livros e artigos sobre o assunto.
 
